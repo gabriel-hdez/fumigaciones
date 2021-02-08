@@ -1,4 +1,4 @@
 
 #Fumigaciones Industriales JG
 
-Fumigación integral, compra y venta de productos: insecticidas, fetilizantes y roenticidas.
+Sistema para el control de Fumigación integral, compra y venta de productos: insecticidas, fetilizantes y roenticidas.
